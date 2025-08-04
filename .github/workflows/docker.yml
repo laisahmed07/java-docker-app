@@ -31,6 +31,6 @@ jobs:
       uses: Docker/build-push-action@v5
       with:
         context: .
-        file: dockerfile
+        file: Dockerfile
         push: true
         tags: laishmed/demo:latest
