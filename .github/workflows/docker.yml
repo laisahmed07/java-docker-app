@@ -33,4 +33,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: laishmed/demo:latest
+        tags: laishmed/:latest
