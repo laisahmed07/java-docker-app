@@ -33,4 +33,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: yourdockerhubusername/demo:latest
+        tags: laishmed/demo:latest
